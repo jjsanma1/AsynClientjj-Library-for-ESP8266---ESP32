@@ -6,12 +6,6 @@
   For ESP32 Uses   AsyncTCP :https://github.com/dvarrel/AsyncTCP  (V1.2.4. date  2019 )
   
   
-  This library is free software; you can redistribute it and/or
-  modify it under the terms of the GNU Lesser General Public
-  License as published by the Free Software Foundation; either
-  version 2.1 of the License, or (at your option) any later version.
-
-  This library is distributed in the hope that it will be useful,
-  but WITHOUT ANY WARRANTY; without even the implied warranty of
-  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
-  Lesser General Public License for more details.  
+ - As main code you will find two files : main.cpp and advanced.txt .
+   main.cpp is the simple example of use of AsyncClientjj class. if you want to use the advanced example you should rename main.cpp as simple.txt and rename advanced.txt 
+  to main.cpp
