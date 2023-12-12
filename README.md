@@ -1,4 +1,3 @@
-/*
   AsyncClientjj - Is a Library for ESP8266 and ESP32 that manages Asyncronous GET requests to any server (IFTTT,etc)
   It can send requests in paralell to several servers , then if you need the response you can get asyncronously.
   The maximum simultaneous Requests by default is 5 but it can be modified in the code of this class. 
@@ -16,4 +15,3 @@
   but WITHOUT ANY WARRANTY; without even the implied warranty of
   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
   Lesser General Public License for more details.  
-*/
