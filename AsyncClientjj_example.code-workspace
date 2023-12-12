@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "AsyncClientjj_Example",
+			"path": "."
+		}
+	],
+	"settings": {
+		"cmake.configureOnOpen": false
+	}
+}
