@@ -1,5 +1,5 @@
 /*
- * JJ - June 2023. Tested in ESP8266.
+  JJ - June 2023. Tested in ESP8266.
   Example of how to use of AsyncClientjj class- This Library manages Async HTTP requests to any server (IFTTT,etc)
   it can send several queries in paralell to different API servers to retrieve information in asyncronous mode. 
 */
