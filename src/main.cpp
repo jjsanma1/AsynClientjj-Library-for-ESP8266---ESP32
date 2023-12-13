@@ -60,6 +60,5 @@ void loop() {
             String response=cliente.getResponse(0); //gets the response
             Serial.print("response received: ");Serial.println(response);// 
          }
-     }
-        
+     }        
 }
