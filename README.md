@@ -1,6 +1,10 @@
    # AsyncClientjj
    - **Library for ESP8266 and ESP32 that manages Asyncronous GET requests to any server (IFTTT,etc)**
   
+  [![GitHub version](https://img.shields.io/github/release/jjsanma1/AsynClientjj-Library-for-ESP8266---ESP32.svg)](https://github.com/jjsanma1/AsynClientjj-Library-for-ESP8266---ESP32/releases/latest)
+[![GitHub download](https://img.shields.io/github/downloads/jjsanma1/AsynClientjj-Library-for-ESP8266---ESP32/total.svg)](https://github.com/jjsanma1/AsynClientjj-Library-for-ESP8266---ESP32/releases/latest)
+[![GitHub stars](https://img.shields.io/github/stars/jjsanma1/AsynClientjj-Library-for-ESP8266---ESP32.svg)](https://github.com/jjsanma1/AsynClientjj-Library-for-ESP8266---ESP32/stargazers)
+
   It can send requests in paralell to several servers , then if you need the response you can get it asyncronously.
   The maximum simultaneous Requests by default is 5 but it can be modified in the AsyncClientjj.h code of this class. 
 
