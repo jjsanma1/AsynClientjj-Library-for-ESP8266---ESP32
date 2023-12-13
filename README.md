@@ -8,7 +8,7 @@
   It can send requests in paralell to several servers , then if you need the response you can get it asyncronously.
   The maximum simultaneous Requests by default is 5 but it can be modified in the AsyncClientjj.h code of this class. 
 
-  - ## V1.0 . Author: JJ - August 2023. Tested in ESP8266 and ESP32.Arduino IDE 2.1.1. ESP8266 boards 3.1.2 . ESP32 boards 2.0.11
+  - ## Author: JJ - August 2023. Tested in ESP8266 and ESP32.Arduino IDE 2.1.1. ESP8266 boards 3.1.2 . ESP32 boards 2.0.11
   For ESP8266 it Uses ESPAsyncTCP :https://github.com/dvarrel/ESPAsyncTCP (V1.1.4. date  2023 august 2)
   For ESP32 it Uses   AsyncTCP :https://github.com/dvarrel/AsyncTCP  (V1.2.4. date  2019 )
 
